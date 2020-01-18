@@ -29,7 +29,7 @@ NOTE: Git doesn't like storing gigantic files for free so we'll use the GLFS (Gi
 The goal of this system is it will only store a reference to the large file in Git and if one of us requests it it'll go and find the file on that machine and transfer it cutting out git as the middle man.
 This requires us to coordinate being online at the same time to ensure we can transfer things.
 
-NOTE: Make sure that you delete Library from the save file when you save a Unity project. It doesn't have data in it that's useful it's just meant as a cache so you can safely get rid of it since it's fucking huge.
+[fixed] -> NOTE: [gitignore fixes this] Make sure that you delete Library from the save file when you save a Unity project. It doesn't have data in it that's useful it's just meant as a cache so you can safely get rid of it since it's fucking huge. (this is actually redundant now. The gitignore fixes this)
 
 7. Microsoft visual studio code
 https://code.visualstudio.com/
@@ -45,7 +45,9 @@ The vast majority of creative software on the market will have a plugin that act
 
 MASTER is the game itself pretty much. If you want to add a new feature to the game what you would do is you would open up unity and you would clone the repository from git to your computer. Essentially what this does is it copies a version of the entire game onto your computer. 
 
-This also ensures that people pretty much always have a backup of the whole file system for a project. Although git is really good about backing up on their end to so you shouldn't really have to worry about losing data even on their end. 
+The gitignore file thats part of the project basically tells git to only upload the important files that we're actually changing. Unity doesn't actually make a huge amount of important data. Most of it is in the library folder and temporary folders which gitignore tells git to... well... ignore.
+
+The benefit of cloning a repo is that it ensures that people pretty much always have a backup of the whole file system for a project. Although git is really good about backing up on their end to so you shouldn't really have to worry about losing data even on their end. 
 Anyways what happens after you clone the repository is you can begin to add edits under your own branch
 
 Branching and Merging:

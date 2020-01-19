@@ -13,42 +13,50 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2020-01-18T16:28:10.864-07:00
-  initializedAtString: 2020-01-18T16:18:43.051-07:00
+  lastUpdatedAtString: 2020-01-18T18:44:33.498-07:00
+  initializedAtString: 2020-01-18T18:16:12.328-07:00
   entries:
-  - path: FPS Example Game\Assets\FPS\Art\Materials\VFX\Lazer_Red.mat
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Art\Materials\VFX\Lazer_Red.mat
-    projectPath: Assets\FPS\Art\Materials\VFX\Lazer_Red.mat
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FPS Example Game\Assets\FPS\Prefabs\Enemies\Enemy_HoverBot_healing.prefab
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Prefabs\Enemies\Enemy_HoverBot_healing.prefab
-    projectPath: Assets\FPS\Prefabs\Enemies\Enemy_HoverBot_healing.prefab
+  - path: Assets\Panoramics\4K\freight_station_4k.hdr
+    fullPath: C:\Users\keato\Repos\game-repo\Assets\Panoramics\4K\freight_station_4k.hdr
+    projectPath: ..\Assets\Panoramics\4K\freight_station_4k.hdr
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Assets\FPS\Prefabs\Enemies\Enemy_HoverBot_healing.prefab.meta
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Prefabs\Enemies\Enemy_HoverBot_healing.prefab.meta
-    projectPath: Assets\FPS\Prefabs\Enemies\Enemy_HoverBot_healing.prefab.meta
+  - path: FPS Example Game\Assets\FPS\Art\Skyboxes.meta
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Art\Skyboxes.meta
+    projectPath: Assets\FPS\Art\Skyboxes.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Assets\FPS\Prefabs\Projectiles\Projectile_Hoverbot_Healing.prefab
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Prefabs\Projectiles\Projectile_Hoverbot_Healing.prefab
-    projectPath: Assets\FPS\Prefabs\Projectiles\Projectile_Hoverbot_Healing.prefab
+  - path: FPS Example Game\Assets\FPS\Art\Skyboxes\freight_station_4k.hdr
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Art\Skyboxes\freight_station_4k.hdr
+    projectPath: Assets\FPS\Art\Skyboxes\freight_station_4k.hdr
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Assets\FPS\Prefabs\Projectiles\Projectile_Hoverbot_Healing.prefab.meta
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Prefabs\Projectiles\Projectile_Hoverbot_Healing.prefab.meta
-    projectPath: Assets\FPS\Prefabs\Projectiles\Projectile_Hoverbot_Healing.prefab.meta
+  - path: FPS Example Game\Assets\FPS\Art\Skyboxes\freight_station_4k.hdr.meta
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Art\Skyboxes\freight_station_4k.hdr.meta
+    projectPath: Assets\FPS\Art\Skyboxes\freight_station_4k.hdr.meta
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Assets\FPS\Prefabs\VFX\VFX_LazerSparksRed.prefab
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Prefabs\VFX\VFX_LazerSparksRed.prefab
-    projectPath: Assets\FPS\Prefabs\VFX\VFX_LazerSparksRed.prefab
+  - path: FPS Example Game\Assets\FPS\Art\Skyboxes\New Skybox.mat
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Art\Skyboxes\New
+      Skybox.mat
+    projectPath: Assets\FPS\Art\Skyboxes\New Skybox.mat
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FPS Example Game\Assets\FPS\Art\Skyboxes\New Skybox.mat.meta
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Art\Skyboxes\New
+      Skybox.mat.meta
+    projectPath: Assets\FPS\Art\Skyboxes\New Skybox.mat.meta
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FPS Example Game\Assets\FPS\Scenes\MainScene\NavMesh.asset
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Assets\FPS\Scenes\MainScene\NavMesh.asset
+    projectPath: Assets\FPS\Scenes\MainScene\NavMesh.asset
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
@@ -58,27 +66,9 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FPS Example Game\Library\CrashedAssetImports.txt
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\CrashedAssetImports.txt
-    projectPath: Library\CrashedAssetImports.txt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\CurrentMaximizeLayout.dwlt
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\CurrentMaximizeLayout.dwlt
-    projectPath: Library\CurrentMaximizeLayout.dwlt
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: FPS Example Game\Library\EditorInstance.json
     fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\EditorInstance.json
     projectPath: Library\EditorInstance.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\gfu\cache\gitfilelog.yaml
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\gfu\cache\gitfilelog.yaml
-    projectPath: Library\gfu\cache\gitfilelog.yaml
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -106,39 +96,51 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FPS Example Game\Library\metadata\3e\3e10614112ec31744937664d7e389691
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\3e\3e10614112ec31744937664d7e389691
-    projectPath: Library\metadata\3e\3e10614112ec31744937664d7e389691
+  - path: FPS Example Game\Library\metadata\1b\1b40381e203da3c4cb9ccb041fae607b
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\1b\1b40381e203da3c4cb9ccb041fae607b
+    projectPath: Library\metadata\1b\1b40381e203da3c4cb9ccb041fae607b
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Library\metadata\3e\3e10614112ec31744937664d7e389691.info
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\3e\3e10614112ec31744937664d7e389691.info
-    projectPath: Library\metadata\3e\3e10614112ec31744937664d7e389691.info
+  - path: FPS Example Game\Library\metadata\1b\1b40381e203da3c4cb9ccb041fae607b.info
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\1b\1b40381e203da3c4cb9ccb041fae607b.info
+    projectPath: Library\metadata\1b\1b40381e203da3c4cb9ccb041fae607b.info
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Library\metadata\4d\4d48b487f11e62940a978c7c0c0cbcb4
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\4d\4d48b487f11e62940a978c7c0c0cbcb4
-    projectPath: Library\metadata\4d\4d48b487f11e62940a978c7c0c0cbcb4
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FPS Example Game\Library\metadata\53\530af3a8082ffb14897ac6b74259b8a1.info
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\53\530af3a8082ffb14897ac6b74259b8a1.info
-    projectPath: Library\metadata\53\530af3a8082ffb14897ac6b74259b8a1.info
-    originalPath: 
-    indexStatus: 0
-    workTreeStatus: 3
-  - path: FPS Example Game\Library\metadata\ac\ac2e6c15ec0cb40429779f420b40904e
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\ac\ac2e6c15ec0cb40429779f420b40904e
-    projectPath: Library\metadata\ac\ac2e6c15ec0cb40429779f420b40904e
+  - path: FPS Example Game\Library\metadata\4d\4d60086d0319eb94a8435af9ecfbd26c
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\4d\4d60086d0319eb94a8435af9ecfbd26c
+    projectPath: Library\metadata\4d\4d60086d0319eb94a8435af9ecfbd26c
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
-  - path: FPS Example Game\Library\metadata\ac\ac2e6c15ec0cb40429779f420b40904e.info
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\ac\ac2e6c15ec0cb40429779f420b40904e.info
-    projectPath: Library\metadata\ac\ac2e6c15ec0cb40429779f420b40904e.info
+  - path: FPS Example Game\Library\metadata\4d\4d60086d0319eb94a8435af9ecfbd26c.info
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\4d\4d60086d0319eb94a8435af9ecfbd26c.info
+    projectPath: Library\metadata\4d\4d60086d0319eb94a8435af9ecfbd26c.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FPS Example Game\Library\metadata\a7\a7eda69e62dced54daa7ab950e461dcb
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\a7\a7eda69e62dced54daa7ab950e461dcb
+    projectPath: Library\metadata\a7\a7eda69e62dced54daa7ab950e461dcb
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FPS Example Game\Library\metadata\a7\a7eda69e62dced54daa7ab950e461dcb.info
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\metadata\a7\a7eda69e62dced54daa7ab950e461dcb.info
+    projectPath: Library\metadata\a7\a7eda69e62dced54daa7ab950e461dcb.info
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FPS Example Game\Library\ShaderCache\9\96da4517d2039858a64a85d84fa5f4bf.bin
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\ShaderCache\9\96da4517d2039858a64a85d84fa5f4bf.bin
+    projectPath: Library\ShaderCache\9\96da4517d2039858a64a85d84fa5f4bf.bin
+    originalPath: 
+    indexStatus: 1
+    workTreeStatus: 1
+  - path: FPS Example Game\Library\ShaderCache\e\eec85d82950ebfeac4709275ce8dceb4.bin
+    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\ShaderCache\e\eec85d82950ebfeac4709275ce8dceb4.bin
+    projectPath: Library\ShaderCache\e\eec85d82950ebfeac4709275ce8dceb4.bin
     originalPath: 
     indexStatus: 1
     workTreeStatus: 1
@@ -148,60 +150,12 @@ MonoBehaviour:
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FPS Example Game\Library\StateCache\Hierarchy\46b7a0-25a1b0efadb966e448.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\Hierarchy\46b7a0-25a1b0efadb966e448.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-25a1b0efadb966e448.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\StateCache\Hierarchy\46b7a0-3e10614112ec317449.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\Hierarchy\46b7a0-3e10614112ec317449.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-3e10614112ec317449.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\StateCache\Hierarchy\46b7a0-ac2e6c15ec0cb40429.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\Hierarchy\46b7a0-ac2e6c15ec0cb40429.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-ac2e6c15ec0cb40429.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\StateCache\Hierarchy\46b7a0-ec753d54f333bb944b.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\Hierarchy\46b7a0-ec753d54f333bb944b.json
-    projectPath: Library\StateCache\Hierarchy\46b7a0-ec753d54f333bb944b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: FPS Example Game\Library\StateCache\Hierarchy\46b7a0-mainStage.json
     fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\Hierarchy\46b7a0-mainStage.json
     projectPath: Library\StateCache\Hierarchy\46b7a0-mainStage.json
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
-  - path: FPS Example Game\Library\StateCache\SceneView\d69a67-25a1b0efadb966e448.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\SceneView\d69a67-25a1b0efadb966e448.json
-    projectPath: Library\StateCache\SceneView\d69a67-25a1b0efadb966e448.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\StateCache\SceneView\d69a67-3e10614112ec317449.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\SceneView\d69a67-3e10614112ec317449.json
-    projectPath: Library\StateCache\SceneView\d69a67-3e10614112ec317449.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\StateCache\SceneView\d69a67-ac2e6c15ec0cb40429.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\SceneView\d69a67-ac2e6c15ec0cb40429.json
-    projectPath: Library\StateCache\SceneView\d69a67-ac2e6c15ec0cb40429.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
-  - path: FPS Example Game\Library\StateCache\SceneView\d69a67-ec753d54f333bb944b.json
-    fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\SceneView\d69a67-ec753d54f333bb944b.json
-    projectPath: Library\StateCache\SceneView\d69a67-ec753d54f333bb944b.json
-    originalPath: 
-    indexStatus: 1
-    workTreeStatus: 1
   - path: FPS Example Game\Library\StateCache\SceneView\d69a67-mainStage.json
     fullPath: C:\Users\keato\Repos\game-repo\FPS Example Game\Library\StateCache\SceneView\d69a67-mainStage.json
     projectPath: Library\StateCache\SceneView\d69a67-mainStage.json
